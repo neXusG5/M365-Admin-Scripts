@@ -1,23 +1,34 @@
-# M365 Admin Scripts
-
-Collection of practical Microsoft 365 administration scripts.
-
-## Technologies
-
-- Exchange Online
-- Microsoft Entra ID
-- SharePoint Online
-- Microsoft Defender
-- Microsoft Graph
-
-## Repository Structure
-
-ExchangeOnline/
-EntraID/
-SharePoint/
-Defender/
-Reports/
-
-## Author
-Davender Singh
-Microsoft 365 Administrator
+M365-Admin-Scripts
+│
+├── ExchangeOnline
+│   ├── Mailbox
+│   ├── Compliance
+│   ├── TransportRules
+│   ├── Archives
+│
+├── EntraID
+│   ├── Users
+│   ├── MFA
+│   ├── ConditionalAccess
+│   ├── Roles
+│
+├── SharePoint
+│   ├── Sites
+│   ├── ExternalUsers
+│   ├── Storage
+│
+├── Defender
+│   ├── Devices
+│   ├── Vulnerabilities
+│   ├── SecurityReports
+│
+├── Reports
+│   ├── HTML
+│   ├── CSV
+│   ├── PowerBI
+│
+├── Images
+│
+├── Docs
+│
+└── README.md
