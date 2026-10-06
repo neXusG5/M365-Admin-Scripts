@@ -1,6 +1,25 @@
 # Microsoft 365 Administration Toolkit
 
-A collection of Microsoft 365 administration and automation scripts.
+Enterprise PowerShell scripts for Microsoft 365 administration, security auditing, compliance reporting, and automation.
+
+## Repository Statistics
+
+- 25+ PowerShell Scripts
+- Exchange Online
+- Microsoft Entra ID
+- SharePoint Online
+- Microsoft Defender
+- Microsoft Graph PowerShell
+
+## Featured Scripts
+
+| Script | Purpose |
+|----------|----------|
+| Get-MFAUsers.ps1 | MFA Audit |
+| Get-PasswordExpiryReport.ps1 | Password Expiry Review |
+| Get-ConditionalAccessInventory.ps1 | Conditional Access Audit |
+| Get-MailboxForwardingAudit.ps1 | Mail Forwarding Detection |
+| Get-DeviceInventory.ps1 | Defender Device Inventory |
 
 ## Technologies
 
@@ -18,15 +37,6 @@ SharePoint/
 Defender/
 Reports/
 Images/
-
-## Use Cases
-
-- Mailbox Audits
-- Conditional Access Reviews
-- MFA Reporting
-- SharePoint Audits
-- Defender Reporting
-- Security Assessments
 
 ## Author
 
